@@ -4,7 +4,7 @@
 
 - Make sure python is installed correctly -  <http://docs.python-guide.org>
 
-- Download this package
+- Clone this repo
 ~~~
 git clone https://github.com/impshum/simple-twitter-facts-bot
 ~~~
