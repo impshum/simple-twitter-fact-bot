@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-- Make sure python is installed correctly * <http://docs.python-guide.org>
+- Make sure python is installed correctly -  <http://docs.python-guide.org>
 
 - Download this package
 ~~~
@@ -30,10 +30,10 @@ Or use the download button (your choice).
   source venv/bin/activate
   ```
 
-- Install twython
+- Install requirements
 
   ```
-  pip install twython
+  pip install twython requests bs4 lxml
   ```
 
 - Create a twitter account for your project: <https://twitter.com>
@@ -58,7 +58,7 @@ python bot.py
 
 --------------------------------------------------------------------------------
 
-woo.py is a very simple web scraper that grabs the top trending hashtag from <https://ritetag.com/hashtag-search> and simply prints it out. Beautiful Soup is fantastic! I'll leave you to debug what's required to run this script (check the top of woo.py and do the things * pip install 'module'. No keys required as it just scrapes the web.
+woo.py is a very simple web scraper that grabs the top trending hashtag from <https://ritetag.com/hashtag-search> and simply prints it out. Beautiful Soup is fantastic!
 
 Again, to run the script
 
